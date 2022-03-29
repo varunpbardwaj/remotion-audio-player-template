@@ -1,6 +1,8 @@
 # An Audio Player
 
 ###### A Reusable audio player template created using <a href="https://www.remotion.dev/">Remotion</a>.
+<br/>
+<img src="https://raw.githubusercontent.com/varunpbardwaj/remotion-audio-player-template/main/src/assets/images/cover.png">
 
 Click here to <a href="https://bardwaj.me/remotion/neenaadena">watch</a> video.
 
