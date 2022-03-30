@@ -1,4 +1,4 @@
-# An Audio Player
+# Audio Player
 
 ###### A Reusable audio player template created using <a href="https://www.remotion.dev/">Remotion</a>.
 <br/>
